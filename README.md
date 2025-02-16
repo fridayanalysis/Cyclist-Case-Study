@@ -10,8 +10,6 @@ I know that a lot of my analysis was not done 100% efficiently, and I look forwa
 - Strengthen knowledge of the Microsoft suite by limiting tools to only Microsoft resources.
 - Identify key differences between casual riders and members to uncover strategies for converting casual riders to members.
 
-My final analysis, along with the changelog and original case study instructions, can be found [here](https://github.com/fridayanalysis/Case-Study).
-
 ## Findings
 
 Here are the main things I found:
