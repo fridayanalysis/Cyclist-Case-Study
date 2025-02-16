@@ -1,0 +1,25 @@
+Cyclist Data Changelog
+02/14/2025
+* Compiled all zip files into one folder, extracted contents to back up folder.
+* Saved copies of extracted contents to new folder for cleaning. Changed file type from .csv to .xlsx
+* Added Row N ”ride_length” which is equal to end time-start time
+* Added Row O “day_of_week” which tracks Sunday(1)-Saturday(7)
+02/15/2025
+* Removed all entries with no start or end station
+* Created pivot tables to familiarize with trends for month:
+	o Average of ride length by casual/member
+	o Overage ride length by day of week
+	o Average number of rides per day
+* Created month-month sheet finding:
+	o total # of riders per month(casual/member/total)
+	o %casual to toal riders per month
+	o %total riders for month compared to overall for year
+	o Most popular day of the week per month
+* Loaded all data into master excel file via inserting as data tables
+* Created Query making connections to all data tables, tables were given variables corresponding to their month and final table named Year
+* Made pivot tables to look at average trip length, number of trips based on day of week, and length of trip for day of week.
+* Created Query adding column finding all trips that end and start at the same location, and all that don’t.
+02/16/2025
+* Created query to find the top 10 stations for casuals and for members and to compare the trip count between the two. Noticed outlier at Michigan Ave & 8th St where casuals almost double the amount of trips to members
+* Created query finding top 10 stations with higher casual traffic
+* Created query seeing trend between bike type and member/casual
