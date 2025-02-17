@@ -23,7 +23,7 @@ Here are the main things I found:
   ![10_start_stations](Gallery/10_start_stations.png)
   
 - **Round Trip Anomaly**: Casual riders are almost twice as likely to return their bikes to the same station they rented them from.
-  
+  ![round_trip_anomaly](Gallery/round_trip_anomaly.png)
 
 
 
