@@ -20,7 +20,7 @@ Here are the main things I found:
   ![tot_ride_by_day](Gallery/tot_ride_by_day.png)
   
 - **Station Usage**: Casual riders are more prominent at some stations, which could be a chance to convert them to members.
-  ![10_start_station](Gallery/10_start_station.png)
+  ![10_start_stations](Gallery/10_start_stations.png)
   
 - **Round Trip Anomaly**: Casual riders are almost twice as likely to return their bikes to the same station they rented them from.
   ![round_trip_anomoly](Gallery/round_trip_anomoly.png)
