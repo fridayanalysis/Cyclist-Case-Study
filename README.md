@@ -14,9 +14,18 @@ I know that a lot of my analysis was not done 100% efficiently, and I look forwa
 
 Here are the main things I found:
 - **Ride Duration**: Casual riders take longer rides than members.
+  ![avg_ride_by_day](Gallery/avg_ride_by_day.png)
+  
 - **Ride Frequency**: Casual riders ride more on weekends, while members ride more during the week.
+  ![tot_ride_by_day](Gallery/tot_ride_by_day.png)
+  
 - **Station Usage**: Casual riders are more prominent at some stations, which could be a chance to convert them to members.
+  ![10_start_station](Gallery/10_start_station.png)
+  
 - **Round Trip Anomaly**: Casual riders are almost twice as likely to return their bikes to the same station they rented them from.
+  ![round_trip_anomoly](Gallery/round_trip_anomoly.png)
+
+
 
 ## Resources
 
