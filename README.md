@@ -31,3 +31,4 @@ Here are the main things I found:
 
 - [Cyclist Data](https://drive.google.com/file/d/1hBSSHJXQhCOzMIcUL-dwdvXFt241LLNG/view?usp=drive_link)
 - [Google Data Analytics Course](https://www.coursera.org/professional-certificates/google-data-analytics)
+-  The [data](https://divvy-tripdata.s3.amazonaws.com/index.html) has been made available by Motivate International Inc. under [this license](https://divvybikes.com/data-license-agreement).
